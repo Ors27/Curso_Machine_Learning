@@ -4,4 +4,5 @@
 ## Ejercicios de Machine_Learning. Crear un algoritmo y hacer predicciones (11/05/2023)
 ## Ejercicios con "SpaceX".(12/05/2023)
 ## Ejercicios (pendiente) en Matplot(12/05/2023)
-## Ejercicios con funciones y clases(16/07/2023)
+## Ejercicios con funciones y clases(16/05/2023)
+## Ejercicios con funciones lambda y ejercicio de SpaceX(17/05/2023)
