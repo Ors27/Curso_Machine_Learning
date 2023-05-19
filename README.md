@@ -6,4 +6,5 @@
 ## Ejercicios (pendiente) en Matplot(12/05/2023)
 ## Ejercicios con funciones y clases(16/05/2023)
 ## Ejercicios con funciones lambda y ejercicio de SpaceX(17/05/2023)
-## Ejercicios con RDDs Teoría y algunos ejercicios
+## Ejercicios con SparkSession y SpaceX(18/05/2023)
+## Ejercicios con RDDs Teoría y algunos ejercicios(19/05/2023)
